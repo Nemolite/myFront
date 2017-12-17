@@ -1,0 +1,27 @@
+@font-face {
+	font-family: 'opensanscondensed-bold';
+	src: url('../fonts/opensanscondensed-bold-ttf/opensanscondensed-bold.eot');
+	src: url('../fonts/opensanscondensed-bold-ttf/opensanscondensed-bold.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/opensanscondensed-bold-ttf/opensanscondensed-bold.woff') format('woff'),
+	url('../fonts/opensanscondensed-bold-ttf/opensanscondensed-bold.ttf') format('truetype'),
+	url('../fonts/opensanscondensed-bold-ttf/opensanscondensed-bold.svg') format('svg');
+}
+
+@font-face {
+	font-family: 'opensanscondensed-light';
+	src: url('../fonts/opensanscondensed-light-ttf/opensanscondensed-light.eot');
+	src: url('../fonts/opensanscondensed-light-ttf/opensanscondensed-light.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/opensanscondensed-light-ttf/opensanscondensed-light.woff') format('woff'),
+	url('../fonts/opensanscondensed-light-ttf/opensanscondensed-light.ttf') format('truetype'),
+	url('../fonts/opensanscondensed-light-ttf/opensanscondensed-light.svg') format('svg');
+}
+
+@font-face {
+	font-family: 'opensanscondensed-lightitalic';
+	src: url('../fonts/opensanscondensed-lightitalic-ttf/opensanscondensed-lightitalic.eot');
+	src: url('../fonts/opensanscondensed-lightitalic-ttf/opensanscondensed-lightitalic.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/opensanscondensed-lightitalic-ttf/opensanscondensed-lightitalic.woff') format('woff'),
+	url('../fonts/opensanscondensed-lightitalic-ttf/opensanscondensed-lightitalic.ttf') format('truetype'),
+	url('../fonts/opensanscondensed-lightitalic-ttf/opensanscondensed-lightitalic.svg') format('svg');
+}
+

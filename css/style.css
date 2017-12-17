@@ -12,10 +12,7 @@ body {
   .main {
     flex: 1 0 auto;
   }
-
   
-  
-
   .page-footer {
   	background-color: #1976d2;
   }
@@ -23,3 +20,138 @@ body {
   .footer-copyright {
      background-color: #0d47a1;
   }
+
+
+
+.header-text {
+  width: 80%;
+  height: 100%;
+  margin:auto;
+  background-color: #fff;
+  -webkit-box-shadow: 0px 10px 34px -5px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 10px 34px -5px rgba(0,0,0,0.75);
+  box-shadow: 0px 10px 34px -5px rgba(0,0,0,0.75);
+
+}
+
+span.color-txt-red {
+  color: #26A69A;
+}
+
+.header-text h1 {
+  color: #1E88E5;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+.header-text p {
+  width: 80%;
+  height: 100%;
+  margin: 0 auto;
+  margin-bottom: 1%;
+}
+
+.placing{
+  margin-top: 2%;
+  width: 80%;
+  
+}
+
+.text-discription h4 {
+text-align: center;
+color: #1E88E5;
+margin-top: 2px;
+}
+
+.text-discription p {
+  text-indent:5%;
+}
+
+.text-discription-second p {
+  margin-left: 5px;
+  text-indent:5%;
+}
+
+.text-discription-second h4 {
+  color: #1E88E5;
+margin-top: 2px;
+}
+
+
+.login-form {
+    display: none;
+      width: 65%;
+    height: 100%;
+    background-color: #1E88E5;
+  /*  margin-left: 230px;*/
+}
+
+label.text-login {
+  text-align: center;
+  color: #fff;
+}
+
+
+/*login*/
+
+.header-text-login {
+  width: 35%;
+  height: 100%;
+  margin:auto;
+  background-color: #fff;
+  -webkit-box-shadow: 0px 10px 34px -5px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 10px 34px -5px rgba(0,0,0,0.75);
+  box-shadow: 0px 10px 34px -5px rgba(0,0,0,0.75);
+
+}
+
+.header-text-login h3 {
+  color: #1E88E5;
+  text-align: center;
+  
+}
+
+
+
+.lost a {
+   
+   border-bottom: 1px dashed #000080;
+}
+
+.header-text h1 {
+   font-family: 'opensanscondensed-light', sans-serif;
+}
+
+.fonts-txt {
+  font-family: 'opensanscondensed-light', sans-serif;
+}
+
+.main-fon {
+    width: 100%;
+    height: 90vh;
+    background-image: url(../img/matrix.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    /*background-size: 100% 100%;*/
+}
+
+.main-fon-txt {
+    width: 100%;
+    height: 60vh;
+    margin-top: 100px;
+    background-color: rgba(0,0,0,0.5);
+    padding: 20px;
+}
+
+.main-fon-txt h1 {
+    font-family: 'opensanscondensed-light', sans-serif;
+    color:#fff;
+    text-transform: uppercase;
+    
+}
+
+.main-fon-txt p {
+    color:#fff;
+    font-size: 16px;
+}

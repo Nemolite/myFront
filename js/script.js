@@ -1,1 +1,6 @@
-$(".dropdown-button").dropdown();
+$(document).ready(function(){
+
+  $(".button-collapse").sideNav();
+
+
+});
