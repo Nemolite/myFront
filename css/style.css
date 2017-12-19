@@ -82,10 +82,10 @@ margin-top: 2px;
 
 .login-form {
     display: none;
-      width: 65%;
+     width: 65%;
     height: 100%;
     background-color: #1E88E5;
-  /*  margin-left: 230px;*/
+  
 }
 
 label.text-login {
@@ -135,7 +135,7 @@ label.text-login {
     background-image: url(../img/matrix.jpg);
     background-repeat: no-repeat;
     background-position: center center;
-    /*background-size: 100% 100%;*/
+   
 }
 
 .main-fon-txt {
@@ -155,7 +155,8 @@ label.text-login {
 
 .main-fon-txt p {
     color:#fff;
-    font-size: 16px;
+    font-size: 19px;
+
 }
 
 .content-reg {
@@ -172,4 +173,55 @@ label.text-login {
     color: #1E88E5;
   text-align: center;
   font-family: 'opensanscondensed-light', sans-serif;
+}
+
+/*This is styles for frontend page*/
+
+.frontend-contents {
+    width: 80%;
+    height: 300px;
+    margin: 0 auto;
+    background-color: #fff;
+    -webkit-box-shadow: 0px 10px 34px -5px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 10px 34px -5px rgba(0,0,0,0.75);
+    box-shadow: 0px 10px 34px -5px rgba(0,0,0,0.75);
+
+}
+
+/*This is styles for backend page*/
+.backend-contents {
+    width: 80%;
+    height: 300px;
+    margin: 0 auto;
+    background-color: #fff;
+    -webkit-box-shadow: 0px 10px 34px -5px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 10px 34px -5px rgba(0,0,0,0.75);
+    box-shadow: 0px 10px 34px -5px rgba(0,0,0,0.75);
+
+}
+
+/*This is styles for contacts page*/
+
+.contacts-contents {
+    width: 80%;
+    height: 300px;
+    margin: 0 auto;
+    background-color: #fff;
+    -webkit-box-shadow: 0px 10px 34px -5px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 10px 34px -5px rgba(0,0,0,0.75);
+    box-shadow: 0px 10px 34px -5px rgba(0,0,0,0.75);
+
+}
+
+/*This is styles for blog page*/
+
+.blog-contents {
+    width: 80%;
+    height: 300px;
+    margin: 0 auto;
+    background-color: #fff;
+    -webkit-box-shadow: 0px 10px 34px -5px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 10px 34px -5px rgba(0,0,0,0.75);
+    box-shadow: 0px 10px 34px -5px rgba(0,0,0,0.75);
+
 }
