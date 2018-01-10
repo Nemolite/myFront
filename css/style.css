@@ -97,6 +97,7 @@ label.text-login {
 }
 
 
+
 /*login*/
 
 .header-text-login {
@@ -246,6 +247,134 @@ label.text-login {
   margin-top: 25px;
   background-image: url("../img/screen-infinity.png");
   background-size:cover;
+}
+
+/*second*/
+
+.second {
+  width: 100%;
+  height: auto;
+  background: #1E88E5;
+}
+
+.second h1 {
+    font-family: 'opensanscondensed-light', sans-serif;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+
+.step {
+  width: 100%;
+  height: 200px;
+  border:1px solid #fff;
+  transition: 2s;
+}
+
+.step:hover {
+  border:1px solid #1E88E5;
+  transition: 2s;
+}
+
+.step h3 {
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'opensanscondensed-light', sans-serif;
+}
+
+.step-icon-1 {
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin-left: 13px;
+  margin-right: 13px;
+   background-image: url("../img/pen.png");
+  background-size:cover;
+}
+
+.step-icon-2 {
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin-left: 13px;
+  margin-right: 13px;
+   background-image: url("../img/notebook.png");
+  background-size:cover;
+}
+
+.step-icon-3 {
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin-left: 13px;
+  margin-right: 13px;
+   background-image: url("../img/ruler.png");
+  background-size:cover;
+}
+
+.step-icon-4 {
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin-left: 13px;
+  margin-right: 13px;
+   background-image: url("../img/crop-tool.png");
+  background-size:cover;
+}
+
+.step-icon-5 {
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin-left: 13px;
+  margin-right: 13px;
+   background-image: url("../img/knife-tool.png");
+  background-size:cover;
+}
+
+.step-icon-6 {
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin-left: 13px;
+  margin-right: 13px;
+   background-image: url("../img/logo-design.png");
+  background-size:cover;
+}
+
+.step-icon-7 {
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin-left: 13px;
+  margin-right: 13px;
+   background-image: url("../img/layout.png");
+  background-size:cover;
+}
+
+.step-icon-8 {
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin-left: 13px;
+  margin-right: 13px;
+   background-image: url("../img/marker-pen.png");
+  background-size:cover;
+}
+
+
+.step-txt p {
+ color:#fff;
+}
+
+
+/*main-slider*/
+
+.main-slider {
+  width: 100%;
+  height: 500px;
+  background-color: #fff;
 }
 
 /*registr*/
