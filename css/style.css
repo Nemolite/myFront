@@ -524,6 +524,12 @@ label.text-login {
   margin-left: 28%;
 }
 
+.mobil p {
+  margin-left: -25px;
+  font-size: 19px;
+  font-family: 'opensanscondensed-light', sans-serif;
+
+}
 
 
 .github-color {
@@ -548,13 +554,49 @@ label.text-login {
 
 .blog-contents {
     width: 80%;
-    height: 300px;
+    height: auto;
     margin: 0 auto;
     background-color: #fff;
     -webkit-box-shadow: 0px 10px 34px -5px rgba(0,0,0,0.75);
     -moz-box-shadow: 0px 10px 34px -5px rgba(0,0,0,0.75);
     box-shadow: 0px 10px 34px -5px rgba(0,0,0,0.75);
 
+}
+
+.blog-contents h1 {
+  font-family: 'opensanscondensed-light', sans-serif;
+  color: #1E88E5;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.blog-contents p {
+  font-family: 'opensanscondensed-light', sans-serif;
+  text-align: center;
+  font-size: 19px;
+}
+
+.line {
+  width: 80%;
+  height: 1px;
+  margin: 0 auto;
+  background-color: #1E88E5;
+
+}
+
+.blog-contents-text {
+  width: 90%;
+  height: auto;
+  margin: 0 auto;
+
+}
+
+.blog-contents-text h3 {
+  text-align: center;
+}
+
+.blog-contents-text h5 {
+ 
 }
 
 /*This is styles for content-reset*/
