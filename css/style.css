@@ -373,8 +373,32 @@ label.text-login {
 
 .main-slider {
   width: 100%;
-  height: 500px;
+  height: 530px;
   background-color: #fff;
+}
+
+.slid1 {
+  width: 100%;
+  height: 300px;
+ /* border:1px solid red;
+   background-image: url("../img/mobile-phone-426559_1920.jpg");
+   background-size:cover;*/
+}
+
+.slid2 {
+  width: 100%;
+  height: 300px;
+   /*border:1px solid red;
+   background-image: url("../img/finger-3033058_1920.jpg");
+   background-size:cover;*/
+}
+
+.slid3 {
+  width: 100%;
+  height: 300px;
+  /* border:1px solid red;
+   background-image: url("../img/web-1935737_1920.png");
+   background-size:cover;*/
 }
 
 /*registr*/
